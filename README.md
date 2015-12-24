@@ -10,6 +10,7 @@ This contains the most up to date record of my travel plans
 | Cluj Napoca, Romania | tbd, February | MobOS |
 | Tokyo | tbd, March | try! Swift |
 | San Francisco | tbd, May | Twilio Signal |
+| London | June 22 - 24 (?) | iOSCon |
 | Logrono, Spain | tbd, September | 🍷 |
 
 ### Previously...
