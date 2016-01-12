@@ -6,7 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Paris | 28 - 30 January | dotSwift |
+| Paris | January 28 - 30 | dotSwift |
 | Cluj Napoca, Romania | tbd, February | MobOS |
 | Tokyo | February 28 - March 11 | try! Swift |
 | Amsterdam | March 16 - 19 | mdevcon |
