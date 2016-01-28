@@ -6,7 +6,6 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  |
 | --------------- |:--------------:| :-------|
-| Paris | January 27 - 30 | dotSwift |
 | Cluj Napoca, Romania | February 17 - 20 | MobOS |
 | Tokyo | February 28 - March 11 | try! Swift |
 | Amsterdam | March 16 - 19 | mdevcon |
@@ -27,3 +26,4 @@ This contains the most up to date record of my travel plans
 | Frankfurt | October 23 - 26 | Macoun |
 | San Francisco | October 26 - November 2 | SwiftSummit |
 | Amsterdam | November 8 - 10 | do { iOS } |
+| Paris | January 27 - 30 | dotSwift |
