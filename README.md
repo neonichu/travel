@@ -4,14 +4,14 @@ This contains the most up to date record of my travel plans
 
 ### Upcoming
 
-| Location        | Date           | Reason  |
-| --------------- |:--------------:| :-------|
-| Cluj Napoca, Romania | February 17 - 20 | MobOS |
-| Tokyo | February 28 - March 11 | try! Swift |
-| Amsterdam | March 16 - 19 | mdevcon |
-| San Francisco | tbd, May | Twilio Signal |
-| London | June 22 - 24 (?) | iOSCon |
-| Logroño, Spain | tbd, September | 🍷 |
+| Location        | Date           | Reason  | Booked |
+| --------------- |:--------------:| :-------|:-------|
+| Cluj Napoca, Romania | February 17 - 20 | MobOS | ✅  |
+| Tokyo | February 28 - March 11 | try! Swift | ✅  |
+| Amsterdam | March 16 - 19 | mdevcon | |
+| San Francisco | tbd, May | Twilio Signal | |
+| London | June 22 - 24 (?) | iOSCon | |
+| Logroño, Spain | tbd, September | 🍷 | |
 
 ### Previously...
 
