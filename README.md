@@ -6,10 +6,9 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| Barcelona | April 7 - 10 | NSBarcelona | ✅ |
 | Zurich | April 24 - 27 | App Builders | ✅ |
 | San Francisco | tbd, May | Twilio Signal | |
-| Logroño, Spain | tbd, September | 🍷 | |
+| Logroño, Spain | September 11 - 18 | 🍷 | |
 
 ### Previously...
 
@@ -28,3 +27,4 @@ This contains the most up to date record of my travel plans
 | Cluj Napoca, Romania | February 17 - 20 | MobOS | ✅  |
 | Tokyo | February 28 - March 11 | try! Swift | ✅  |
 | Amsterdam | March 16 - 19 | mdevcon | ✅ |
+| Barcelona | April 7 - 10 | NSBarcelona | ✅ |
