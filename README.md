@@ -8,6 +8,7 @@ This contains the most up to date record of my travel plans
 | --------------- |:--------------:| :-------|:-------|
 | Zurich | April 24 - 27 | App Builders | ✅ |
 | San Francisco | tbd, May | Twilio Signal | |
+| San Francisco | tbd, July | Forward Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 
 ### Previously...
