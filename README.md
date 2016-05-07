@@ -6,8 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| Zurich | April 24 - 27 | App Builders | ✅ |
-| San Francisco | tbd, May | Twilio Signal | |
+| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | |
 | San Francisco | tbd, July | Forward Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 
@@ -29,3 +28,4 @@ This contains the most up to date record of my travel plans
 | Tokyo | February 28 - March 11 | try! Swift | ✅  |
 | Amsterdam | March 16 - 19 | mdevcon | ✅ |
 | Barcelona | April 7 - 10 | NSBarcelona | ✅ |
+| Zurich | April 24 - 27 | App Builders | ✅ |
