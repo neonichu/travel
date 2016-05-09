@@ -6,7 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | |
+| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | ✅  |
 | San Francisco | tbd, July | Forward Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 
