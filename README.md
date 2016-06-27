@@ -6,8 +6,11 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | ✅  |
+| Barcelona | July 7 - 10 | CMD+NO U | ✅  |
 | San Francisco | tbd, July | Forward Swift | |
+| London | tbd, August | Swifty London | |
+| New York | tbd, August |  ¯\\\_(ツ)\_/¯  | |
+| San Francisco | tbd, September | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 
 ### Previously...
@@ -29,3 +32,4 @@ This contains the most up to date record of my travel plans
 | Amsterdam | March 16 - 19 | mdevcon | ✅ |
 | Barcelona | April 7 - 10 | NSBarcelona | ✅ |
 | Zurich | April 24 - 27 | App Builders | ✅ |
+| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | ✅  |
