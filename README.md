@@ -9,9 +9,10 @@ This contains the most up to date record of my travel plans
 | Barcelona | July 7 - 10 | CMD+NO U | ✅  |
 | San Francisco | tbd, July | Forward Swift | |
 | London | tbd, August | Swifty London | |
-| New York | tbd, August |  ¯\\\_(ツ)\_/¯  | |
-| San Francisco | tbd, September | |
+| New York | tbd, August/September | try! Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
+| Paris | tbd, September | 🇫🇷Kit | |
+| San Francisco | tbd, October | |
 
 ### Previously...
 
@@ -32,4 +33,4 @@ This contains the most up to date record of my travel plans
 | Amsterdam | March 16 - 19 | mdevcon | ✅ |
 | Barcelona | April 7 - 10 | NSBarcelona | ✅ |
 | Zurich | April 24 - 27 | App Builders | ✅ |
-| San Francisco | May 23 - Juli 19 | Twilio Signal, WWDC, AltConf | ✅  |
+| San Francisco | May 23 - June 19 | Twilio Signal, WWDC, AltConf | ✅  |
