@@ -6,9 +6,8 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| Barcelona | July 7 - 10 | CMD+NO U | ✅  |
-| San Francisco | tbd, July | Forward Swift | |
-| London | tbd, August | Swifty London | |
+| San Francisco | July 25 - August 1 | Forward Swift | ✅ |
+| London | August 2 - ? | Swifty London | |
 | New York | tbd, August/September | try! Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 | Paris | tbd, September | 🇫🇷Kit | |
@@ -27,10 +26,11 @@ This contains the most up to date record of my travel plans
 | Frankfurt | 2015 October 23 - 26 | Macoun |
 | San Francisco | 2015 October 26 - November 2 | SwiftSummit |
 | Amsterdam | 2015 November 8 - 10 | do { iOS } |
-| Paris | January 27 - 30 | dotSwift |
-| Cluj Napoca, Romania | February 17 - 20 | MobOS | ✅  |
-| Tokyo | February 28 - March 11 | try! Swift | ✅  |
-| Amsterdam | March 16 - 19 | mdevcon | ✅ |
-| Barcelona | April 7 - 10 | NSBarcelona | ✅ |
-| Zurich | April 24 - 27 | App Builders | ✅ |
-| San Francisco | May 23 - June 19 | Twilio Signal, WWDC, AltConf | ✅  |
+| Paris | 2016 January 27 - 30 | dotSwift |
+| Cluj Napoca, Romania | 2016 February 17 - 20 | MobOS | ✅ |
+| Tokyo | 2016 February 28 - March 11 | try! Swift | ✅ |
+| Amsterdam | 2016 March 16 - 19 | mdevcon | ✅ |
+| Barcelona | 2016 April 7 - 10 | NSBarcelona | ✅ |
+| Zurich | 2016 April 24 - 27 | App Builders | ✅ |
+| San Francisco | 2016 May 23 - June 19 | Twilio Signal, WWDC, AltConf | ✅ |
+| Barcelona | 2016 July 7 - 10 | CMD+NO U | ✅ |
