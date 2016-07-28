@@ -11,7 +11,7 @@ This contains the most up to date record of my travel plans
 | New York | tbd, August/September | try! Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 | Paris | tbd, September | 🇫🇷Kit | |
-| San Francisco | tbd, October | |
+| San Francisco | tbd, October |  |
 
 ### Previously...
 
