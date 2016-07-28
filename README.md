@@ -33,4 +33,4 @@ This contains the most up to date record of my travel plans
 | Barcelona | 2016 April 7 - 10 | NSBarcelona | ✅ |
 | Zurich | 2016 April 24 - 27 | App Builders | ✅ |
 | San Francisco | 2016 May 23 - June 19 | Twilio Signal, WWDC, AltConf | ✅ |
-| Barcelona | 2016 July 7 - 10 | CMD+NO U | ✅ |
+| Barcelona | 2016 July 7 - 10 | CMD+U | ✅ |
