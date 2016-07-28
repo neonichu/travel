@@ -7,7 +7,7 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
 | San Francisco | July 25 - August 1 | Forward Swift | ✅ |
-| London | August 2 - ? | Swifty London | |
+| London | August 2 - ? | Swift London | |
 | New York | tbd, August/September | try! Swift | |
 | Logroño, Spain | September 11 - 18 | 🍷 | |
 | Paris | tbd, September | 🇫🇷Kit | |
