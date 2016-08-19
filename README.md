@@ -7,8 +7,8 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
 | New York | August 30 - September 10 | try! Swift | ✅ |
-| Logroño, Spain | September 12 - 18 | 🍷 | |
-| Paris | September 21 - 25 | 🇫🇷Kit | |
+| Logroño, Spain | September 12 - 19 | 🍷 | ✅ |
+| Paris | September 21 - 25 | 🇫🇷Kit | ✅ |
 | San Francisco | tbd, October |  |
 
 ### Previously...
