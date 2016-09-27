@@ -6,10 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| New York | August 30 - September 10 | try! Swift | ✅ |
-| Logroño, Spain | September 12 - 19 | 🍷 | ✅ |
-| Paris | September 21 - 25 | 🇫🇷Kit | ✅ |
-| San Francisco | tbd, October |  |
+| San Francisco | October 2 - 16 |  | ✅ |
 
 ### Previously...
 
@@ -33,4 +30,7 @@ This contains the most up to date record of my travel plans
 | San Francisco | 2016 May 23 - June 19 | Twilio Signal, WWDC, AltConf | ✅ |
 | Barcelona | 2016 July 7 - 10 | CMD+NO U | ✅ |
 | San Francisco | 2016 July 25 - August 1 | Forward Swift | ✅ |
-| London | 2016 August 2 - 4 | Swifty London | |
+| London | 2016 August 2 - 4 | Swifty London | ✅ |
+| New York | 2016 August 30 - September 10 | try! Swift | ✅ |
+| Logroño, Spain | 2016 September 12 - 19 | 🍷 | ✅ |
+| Paris | 2016 September 21 - 25 | 🇫🇷Kit | ✅ |
