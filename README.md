@@ -7,6 +7,7 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
 | San Francisco | October 2 - 16 |  | ✅ |
+| Berlin        | October 16 - TBA |  | ✅ |
 
 ### Previously...
 
