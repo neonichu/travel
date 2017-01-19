@@ -6,7 +6,7 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| San Francisco | October 2 - 16 |  | ✅ |
+| Cupertino | January 29 - February 12 |  | ✅ |
 
 ### Previously...
 
@@ -34,3 +34,4 @@ This contains the most up to date record of my travel plans
 | New York | 2016 August 30 - September 10 | try! Swift | ✅ |
 | Logroño, Spain | 2016 September 12 - 19 | 🍷 | ✅ |
 | Paris | 2016 September 21 - 25 | 🇫🇷Kit | ✅ |
+| San Francisco | 2016 October 2 - 16 |  | ✅ |
