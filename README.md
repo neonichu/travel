@@ -7,6 +7,7 @@ This contains the most up to date record of my travel plans
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
 | Cupertino | January 29 - February 12 |  | ✅ |
+| Tokyo | February 25 - March 6 | try! Swift | ✅ |
 
 ### Previously...
 
