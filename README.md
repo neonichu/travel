@@ -6,8 +6,9 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| Cupertino | January 29 - February 12 |  | ✅ |
 | Tokyo | February 25 - March 6 | try! Swift | ✅ |
+| Cupertino | TBD, June | WWDC | |
+| Logroño, Spain | TBD, September | 🍷 | |
 
 ### Previously...
 
@@ -36,3 +37,4 @@ This contains the most up to date record of my travel plans
 | Logroño, Spain | 2016 September 12 - 19 | 🍷 | ✅ |
 | Paris | 2016 September 21 - 25 | 🇫🇷Kit | ✅ |
 | San Francisco | 2016 October 2 - 16 |  | ✅ |
+| Cupertino | 2017 January 29 - February 12 |  | ✅ |
