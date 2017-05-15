@@ -6,9 +6,9 @@ This contains the most up to date record of my travel plans
 
 | Location        | Date           | Reason  | Booked |
 | --------------- |:--------------:| :-------|:-------|
-| Cupertino | May 27 - June 3 |  | |
-| San Jose | June 4 - 10 | WWDC | |
-| San Francisco | June 11 - 17 | YOLO | |
+| Cupertino | May 27 - June 3 |  | ✅ |
+| San Jose | June 4 - 10 | WWDC | ✅ |
+| San Francisco | June 11 - 17 | YOLO | ✅ |
 | Cologne | August 23 - 25 | GamesCom | |
 | Logroño, Spain | TBD, September | 🍷 | |
 
@@ -41,3 +41,4 @@ This contains the most up to date record of my travel plans
 | San Francisco | 2016 October 2 - 16 |  | ✅ |
 | Cupertino | 2017 January 29 - February 12 |  | ✅ |
 | Tokyo | 2017 February 25 - March 6 | try! Swift | ✅ |
+| Lausanne | April 22 - 25 | AppBuilders | ✅ |
